@@ -101,3 +101,5 @@ What SQL command is used to remove rows from a database table?
 ```sql
 DELETE FROM
 ```
+
+testing commit and push
